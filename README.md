@@ -39,6 +39,19 @@ It aims to improve decision-making through data visualization and automated repo
 
 ---
 
+## 👥 User Roles
+
+### 👑 Administrator
+- Manage products and categories
+- Access dashboard analytics
+- Export PDF reports
+- Full system control
+
+### 👤 Regular User
+- View products
+- View categories
+- Access limited dashboard information
+
 ## 🛠 Tech Stack
 
 - Laravel 12
@@ -50,6 +63,22 @@ It aims to improve decision-making through data visualization and automated repo
 - Blade Templates
 
 ---
+
+## ⚙️ Requirements
+
+- PHP >= 8.1
+- Composer
+- Node.js & NPM
+- MySQL or MariaDB
+- Laravel 12
+
+## 🚀 Future Improvements
+
+- Advanced user roles and permissions
+- Email notifications for low stock
+- Advanced analytics dashboard
+- API integration for mobile app
+- Multi-language support
 
 ## 📸 Capturas del sistema SIGIV
 

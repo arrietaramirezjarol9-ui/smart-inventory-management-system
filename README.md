@@ -36,8 +36,6 @@ It aims to improve decision-making through data visualization and automated repo
 - 📄 PDF export of products
 - 🗃 MySQL database integration (phpMyAdmin)
 
----
-
 ## 👥 User Roles
 
 ### 👑 Administrator
@@ -60,8 +58,6 @@ It aims to improve decision-making through data visualization and automated repo
 - JavaScript
 - Chart.js
 - Blade Templates
-
----
 
 ## ⚙️ Requirements
 
@@ -92,8 +88,6 @@ It aims to improve decision-making through data visualization and automated repo
 
 ### 🏷 Categorías
 ![Categories](https://github.com/arrietaramirezjarol9-ui/smart-inventory-management-system/blob/main/categories.png?raw=true)
-
----
 
 ## 🚀 Installation
 

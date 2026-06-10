@@ -20,6 +20,11 @@
 This system includes authentication, role-based access (admin/user), dashboard analytics, and PDF report generation.
 
 ---
+## 🎯 Project Objective
+
+The main objective of this system is to provide an efficient and centralized solution for inventory management, allowing better control of products, categories, and stock levels in real time.
+
+It aims to improve decision-making through data visualization and automated reports.
 
 ## ⚡ Features
 
